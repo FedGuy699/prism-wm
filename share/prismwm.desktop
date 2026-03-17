@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Prism WM
+Comment=Simple no bloat tiling window manager
+Exec=prismwm
+TryExec=prismwm
+Type=XSession
+Keywords=windowmanager;wm;window;manager;
